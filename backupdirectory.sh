@@ -4,3 +4,7 @@
 
 
 mkdir -p backup
+
+#dirname=backup
+
+#if [[ ! -d $dirname ]] 
