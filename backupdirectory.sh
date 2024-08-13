@@ -8,7 +8,7 @@
 
 bdir=backup
 
-if [[ ! -d "$bdir" ]]
+if [ ! -d "$bdir" ]
 then
     echo "File does NOT exist. Generating"
     mkdir ./$bdir
